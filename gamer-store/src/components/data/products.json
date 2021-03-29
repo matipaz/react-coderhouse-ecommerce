@@ -1,0 +1,74 @@
+[
+    {
+        "id":"SKU000001",
+        "category":{
+            "id":"mouse",
+            "name":"Mouse"
+        },
+        "subCategory":"",
+        "name":"Mouse1",
+        "description":"Mouse gamer desc 1", 
+        "brand":"",
+        "stock":10,
+        "image":{
+            "src":"static/assets/mouseRedragonGriffin.jpg",
+            "alt":"",
+            "title":""
+        },
+        "top":true
+    },
+    {
+        "id":"SKU000002",
+        "category":{
+            "id":"mouse",
+            "name":"Mouse"
+        },
+        "subCategory":"",
+        "name":"Mouse2",
+        "description":"Mouse gamer desc 2", 
+        "brand":"",
+        "stock":10,
+        "image":{
+            "src":"static/assets/mouseRedragonEmperor.jpg",
+            "alt":"",
+            "title":""
+        },
+        "top":true
+    },
+    {
+        "id":"SKU000003",
+        "category":{
+            "id":"mouse",
+            "name":"Mouse"
+        },
+        "subCategory":"",
+        "name":"Mouse3",
+        "description":"Mouse gamer desc 3", 
+        "brand":"",
+        "stock":10,
+        "image":{
+            "src":"static/assets/mouseRedragoncobrafpswhite.jpg",
+            "alt":"",
+            "title":""
+        },
+        "top":true
+    },
+    {
+        "id":"SKU000004",
+        "category":{
+            "id":"headset",
+            "name":"Headset"
+        },
+        "subCategory":"",
+        "name":"Headset1",
+        "description":"Headset gamer desc 1", 
+        "brand":"",
+        "stock":10,
+        "image":{
+            "src":"static/assets/headsetrRzerKrakengreen.jpg",
+            "alt":"",
+            "title":""
+        },
+        "top":true
+    }
+]   
