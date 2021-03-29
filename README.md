@@ -1,1 +1,0 @@
-# rect-coderhouse-ecommerce
